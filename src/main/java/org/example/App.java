@@ -30,8 +30,6 @@ public class App {
 
     }
 
-
-
     public class PriceAndTime {
         Scanner scan = new Scanner(System.in);
 
@@ -159,7 +157,11 @@ public class App {
 
 
             }
-        }
+
+           }
+
+
+
 
 
 
