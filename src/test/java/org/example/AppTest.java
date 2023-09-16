@@ -32,7 +32,7 @@ class AppTest {
     }
 
     @Test
-    void exitWithLowerCaseE() {
+     void exitWithLowerCaseE() {
         String menu = """
                 Elpriser
                 ========
