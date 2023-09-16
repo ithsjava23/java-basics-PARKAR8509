@@ -1,6 +1,6 @@
 package org.example;
 
-import com.sun.source.tree.WhileLoopTree;
+
 
 import java.util.Scanner;
 
@@ -22,11 +22,13 @@ public class App {
                     """;
 
             System.out.print(menu);
-            choice = Scanner.nextLine();
+           choice = Scanner.nextLine();
+
+     //      add code for choice 1 to 4
 
         } while (!choice.equalsIgnoreCase("e"));
 
-        // Kod som ska köras när användaren väljer att avsluta
+        //
     }
 }
 
