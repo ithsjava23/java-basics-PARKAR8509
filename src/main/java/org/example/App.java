@@ -24,7 +24,7 @@ public class App {
 
             choice = Scanner.nextLine();
 
-     //      add code for choice 1 to 4
+            //      add code for choice 1 to 4
 
         } while (!choice.equalsIgnoreCase("e"));
 
